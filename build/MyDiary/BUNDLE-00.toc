@@ -1,0 +1,1 @@
+([('MyDiary', '/Users/wadamoto/my_python/dist/MyDiary', 'EXECUTABLE')],)
