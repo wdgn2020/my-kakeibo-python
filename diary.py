@@ -44,5 +44,6 @@ def main(page: ft.Page):
         ], horizontal_alignment="center")
     )
 
-# 確実に文字入力ができるように「ブラウザ」で開く設定
-ft.app(target=main, view=ft.AppView.WEB_BROWSER)
+# 一番最後の一行をこれに書き換えて保存
+ft.app(target=main) 
+
