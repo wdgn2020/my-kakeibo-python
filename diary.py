@@ -44,6 +44,6 @@ def main(page: ft.Page):
         ], horizontal_alignment="center")
     )
 
-# 一番最後の一行をこれに書き換えて保存
-ft.app(target=main) 
+# diary.py(またはpyw) の最後をこれに書き換え
+ft.app(target=main) # これだけでOKです
 
